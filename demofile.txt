@@ -4,3 +4,8 @@ hibernate
 
 spring boot
 jpa
+
+mockito
+junit
+
+
